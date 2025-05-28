@@ -1,20 +1,3 @@
-<h1 align="center">Hey, I'm Tanvir Ahmmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-
-- 🔭 Working on DisiBin [DisiBin](https://disibin.com)
-
-- 🌱 Currently learning *Framework and Backend*
-
-- 💬 Ask me about *react js, tailwind css*
-
-- 📫 Reach me *tanvir004006@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tanvirahmmed4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirahmmed4" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvirahmmed4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvirahmmed4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@disibin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@disibin" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
