@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirahmmed2&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirahmmed2" /> </p>
 
-- 🌱 I’m currently learning *MongoDB*
+- 🌱 I’m currently lebuilding projects with MERN stack technology
 
 - 👨‍💻 All of my projects are available at [Https://tanvirahmmed.netlify.app](Https://tanvirahmmed.netlify.app)
 
