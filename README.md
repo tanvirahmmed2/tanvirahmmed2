@@ -40,11 +40,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirahmmed2&show_icons=true&layout=compact&token=YOUR_GITHUB_TOKEN" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirahmmed2&show_icons=true&layout=compact&token=Y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" alt="Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&show_icons=true&locale=en&token=YOUR_GITHUB_TOKEN" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&show_icons=true&locale=en&token=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" alt="GitHub Stats" />
 </p>
 
 <p>
