@@ -3,9 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanvirahmmed2&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 - 🌱 I’m currently building projects with **MERN Stack** technology.
 - 👨‍💻 All of my projects are available at [tanvirahmmed.netlify.app](https://tanvirahmmed.netlify.app)
