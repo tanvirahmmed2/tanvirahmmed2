@@ -18,7 +18,7 @@ Skills and Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS |
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Bootstrap, Tailwind CSS |
 | **Backend** | Node.js, Express.js, MongoDB |
 | **Languages** | C, JavaScript |
 | **Design** | Adobe Illustrator |
