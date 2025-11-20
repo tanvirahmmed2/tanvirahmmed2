@@ -1,15 +1,12 @@
-# 👋 Hi, I'm Tanvir Ahmmed
+<h1 align="center">Hi, I'm Tanvir Ahmmed 👋</h1>
+<h3 align="center">MERN Stack Developer | Frontend Enthusiast</h3>
 
-### 🚀 Passionate MERN Stack Developer
-
-
-
-[Image of a person coding at a computer]
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ---
 
-## 💻 About Me
+About Me
 
 * 🌱 I'm currently focusing on building full-stack applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 * 👨‍💻 All of my personal and professional projects are available on my portfolio website: **[tanvirahmmed.netlify.app](https://tanvirahmmed.netlify.app)**
@@ -17,7 +14,7 @@
 
 ---
 
-## 🛠️ Skills and Tools
+Skills and Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -42,14 +39,14 @@
 
 ---
 
-## 🤝 Connect with Me
+Connect with Me
 
 <p align="left">
   <a href="https://fb.com/tanvirahmmedofficial" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/tanvirahmmed.4" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedim.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/tanvirahmmed-your-profile" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/@disibin" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
@@ -58,7 +55,7 @@
 
 ---
 
-## 📈 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&show_icons=true&locale=en&token=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" alt="GitHub Stats" />
