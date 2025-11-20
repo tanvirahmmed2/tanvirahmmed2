@@ -57,8 +57,5 @@ Connect with Me
 
 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&show_icons=true&locale=en&token=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" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmmed2" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirahmmed2&show_icons=true&layout=compact&token=Y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" alt="Top Languages" />
-</p>
+<p>   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvirahmmed2&show_icons=true&layout=compact&token=Y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" alt="Top Languages" /> </p> <p>   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&show_icons=true&locale=en&token=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" alt="GitHub Stats" /> </p> 
+<p>   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmmed2" alt="GitHub Streak" /> </p>
