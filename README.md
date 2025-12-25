@@ -9,7 +9,7 @@
 About Me
 
 * 🌱 I'm currently focusing on building full-stack applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js), NEXT.Js
-* 👨‍💻 All of my personal and professional projects are available on my portfolio website: **[tanvirahmmed.netlify.app](https://tanvirahmmed.vercel.app/)**
+* 👨‍💻 All of my personal and professional projects are available on my portfolio website: **[https://tanvirahmmed.vercel.app/](https://tanvirahmmed.vercel.app/)**
 * 📫 You can reach me via email at: **tanvir004006@gmail.com**
 
 ---
