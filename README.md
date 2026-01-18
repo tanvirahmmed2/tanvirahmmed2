@@ -11,16 +11,7 @@ I'm a versatile Full Stack Developer with expertise in the MERN stack, Next.js, 
 ![](https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tanvirahmmed2&theme=graywhite&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmmed2&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tanvirahmmed2&theme=graywhite&show_icons=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirahmmed2&theme=graywhite&layout=compact" />
-    </td>
-  </tr>
-</table>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tanvirahmmed2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
